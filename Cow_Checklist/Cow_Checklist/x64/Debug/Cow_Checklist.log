@@ -1,0 +1,3 @@
+﻿  Cow_Checklist.cpp
+C:\Users\Justin Huang\Documents\Recursive Dragon\6-24-2023\Cow_Checklist\Cow_Checklist\Cow_Checklist.cpp(9,39): warning C4244: 'return': conversion from 'double' to 'll', possible loss of data
+  Cow_Checklist.vcxproj -> C:\Users\Justin Huang\Documents\Recursive Dragon\6-24-2023\Cow_Checklist\x64\Debug\Cow_Checklist.exe

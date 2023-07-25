@@ -1,0 +1,7 @@
+﻿  Teamwork.cpp
+C:\Users\Justin Huang\Documents\Recursive Dragon\6-11-2023\Teamwork\Teamwork\Teamwork.cpp(29,14): warning C4244: '=': conversion from 'll' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Teamwork.vcxproj -> C:\Users\Justin Huang\Documents\Recursive Dragon\6-11-2023\Teamwork\x64\Debug\Teamwork.exe

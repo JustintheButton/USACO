@@ -1,0 +1,17 @@
+﻿  Radio_Contact.cpp
+C:\Users\Justin Huang\Documents\Recursive Dragon\7-1-2023\Radio_Contact\Radio_Contact\Radio_Contact.cpp(33,31): warning C4244: '=': conversion from 'll' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Justin Huang\Documents\Recursive Dragon\7-1-2023\Radio_Contact\Radio_Contact\Radio_Contact.cpp(36,31): warning C4244: '=': conversion from 'll' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Justin Huang\Documents\Recursive Dragon\7-1-2023\Radio_Contact\Radio_Contact\Radio_Contact.cpp(40,79): warning C4244: '=': conversion from 'll' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Radio_Contact.vcxproj -> C:\Users\Justin Huang\Documents\Recursive Dragon\7-1-2023\Radio_Contact\x64\Debug\Radio_Contact.exe

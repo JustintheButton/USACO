@@ -1,0 +1,3 @@
+﻿  Talent_Show.cpp
+C:\Users\Justin Huang\Documents\Recursive Dragon\6-24-2023\Talent_Show\Talent_Show\Talent_Show.cpp(6,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Talent_Show.vcxproj -> C:\Users\Justin Huang\Documents\Recursive Dragon\6-24-2023\Talent_Show\x64\Debug\Talent_Show.exe
